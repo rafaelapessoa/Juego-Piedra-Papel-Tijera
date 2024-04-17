@@ -1,0 +1,24 @@
+.main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    background-color: rgb(50, 215, 215);
+    color: white;
+}
+
+.box-result{
+    background-color: rgb(50, 215, 215);
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.hidden{    
+    display: none;    
+}
+
